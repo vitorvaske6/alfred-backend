@@ -1,0 +1,9 @@
+{
+  "app": {
+    "name": "Name: {{.Name}}",
+    "version": "Version: {{.Version}}"
+  },
+  "home": {
+    "welcome_message": "Welcome to the Home Page!"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "app": {
+    "name": "Nome: {{.Name}}",
+    "version": "Versão: {{.Version}}"
+  },
+  "home": {
+    "welcome_message": "Bem-vindo à Página Inicial!"
+  }
+}
